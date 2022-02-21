@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47174xovmvtkhfa29xpxgu0xr7j1pglxaadlq024w6&rid=giphy.gif&ct=g" />
+<img align="right" src="https://media2.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47174xovmvtkhfa29xpxgu0xr7j1pglxaadlq024w6&rid=giphy.gif&ct=g" />
 
 # Dev Celine
 - Freelancer for [Toptal](toptal.com) <img src="https://user-images.githubusercontent.com/61278030/155005346-8cc4142a-c590-4478-96f1-5ebf3b987922.png" width="20" />
@@ -7,9 +7,16 @@
 
 
 ## About me
-👋 I'm a self-taught Programmer from the Middle East. I love open-source,
-currently promising myself to contribute more 😓.  
+👋 I'm a self-taught Programmer from the Middle East. I love open-source, currently promising myself to contribute more 😓.  
 
+```ts
+
+const someOfMyInfo = {
+  name: "Celine Sarafa",
+  pronouns: "she" || "her",
+}
+
+```
 
 
 ## Links
