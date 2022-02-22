@@ -17,7 +17,11 @@ const someOfMyInfo = {
   languages: ["Javascript", "Typescript", "c++"]
 };
 
-const workingOn = new Promise((resolve) => resolve(["My Blog", "Learning Rust", "Contributing to public projects more"]);
+const workingOn = new Promise((resolve) => resolve([
+  "My Blog", 
+  "Learning Rust", 
+  "Contributing to public projects more"
+]);
 
 ```
 
