@@ -14,7 +14,7 @@
 const someOfMyInfo = {
   name: "Celine Sarafa",
   pronouns: "she" | "her",
-  languages: ["Javascript", "Typescript", "c++"]
+  languages: ["Javascript", "Typescript", "Python"]
 };
 
 const workingOn = new Promise((resolve) => resolve([
