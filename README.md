@@ -7,7 +7,7 @@
 
 
 ## About me
-👋 I'm a self-taught Programmer from the Middle East. I love Linux and all things open source 🐧 If the editor does not have a vim mode I don't want it. 
+👋 I'm a self-taught Programmer from the Middle East. I love Linux and all things open source 🐧 If the application does not have a vim mode I don't want it. 
 
 ```ts
 
@@ -18,7 +18,6 @@ const someOfMyInfo = {
 };
 
 const workingOn = new Promise((resolve) => resolve([
-  "My Blog", 
   "Learning Rust", 
   "Contributing to public projects more"
 ]);
@@ -27,6 +26,6 @@ const workingOn = new Promise((resolve) => resolve([
 
 
 ## Links
-- 🌐 Website: WIP 🛠
+- 🌐 Website: https://devceline.com
 - 💼 Linkedin: [LinkedIn](https://www.linkedin.com/in/celine-sarafa-5427a0204/)
 
