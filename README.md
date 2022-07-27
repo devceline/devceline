@@ -3,8 +3,6 @@
 # Dev Celine
 - Freelancer for [Toptal](https://toptal.com) <img src="https://user-images.githubusercontent.com/61278030/155005346-8cc4142a-c590-4478-96f1-5ebf3b987922.png" width="20" />
 
-- Working for [Coinlist](https://coinlist.co)
-
 
 ## About me
 👋 I'm a self-taught Programmer from the Middle East. I love Linux and all things open source 🐧 If the application does not have a vim mode I don't want it. 
