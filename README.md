@@ -1,7 +1,8 @@
 <img align="right" src="https://media2.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47174xovmvtkhfa29xpxgu0xr7j1pglxaadlq024w6&rid=giphy.gif&ct=g" />
 
 # Dev Celine
-- Freelancer for [Toptal](https://toptal.com) <img src="https://user-images.githubusercontent.com/61278030/155005346-8cc4142a-c590-4478-96f1-5ebf3b987922.png" width="20" />
+- Building [WalletConnect](https://WalletConnect.com) <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="20" />
+- Sometimes freelance for [Toptal](https://toptal.com) <img src="https://user-images.githubusercontent.com/61278030/155005346-8cc4142a-c590-4478-96f1-5ebf3b987922.png" width="20" />
 
 
 ## About me
@@ -17,6 +18,7 @@ const someOfMyInfo = {
 
 const workingOn = new Promise((resolve) => resolve([
   "Learning Rust", 
+  "Learning math",
   "Contributing to public projects more"
 ]);
 
