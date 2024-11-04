@@ -1,7 +1,7 @@
 <img align="right" src="https://media2.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47174xovmvtkhfa29xpxgu0xr7j1pglxaadlq024w6&rid=giphy.gif&ct=g" />
 
 # Dev Celine
-- Building [Reown](https://reown.com) <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" width="20" />
+- Building [Reown](https://reown.com) <img src="https://avatars.githubusercontent.com/u/179229932?s=200&v=4" width="20" />
 - Sometimes freelance for [Toptal](https://toptal.com) <img src="https://user-images.githubusercontent.com/61278030/155005346-8cc4142a-c590-4478-96f1-5ebf3b987922.png" width="20" />
 
 
