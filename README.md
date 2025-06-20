@@ -8,12 +8,12 @@
 const someOfMyInfo = {
   name: "Celine Sarafa",
   pronouns: "she" | "her",
-  languages: ["Javascript", "Typescript", "Python", "Rust"]
+  languages: ["Typescript", "Python", "Rust"]
 };
 
 const workingOn = new Promise((resolve) => resolve([
-  "Learning Rust", 
-  "Learning Math",
+  "Learning more Rust", 
+  "Learning more Math",
   "Contributing to public projects more"
 ]);
 
