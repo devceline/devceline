@@ -1,7 +1,7 @@
 # Dev Celine
 
 ## About me
-👋 I'm a self-taught Programmer from the Middle East. I love Linux and all things open source 🐧 If the application does not have a vim mode I don't want it. 
+👋 I'm a self-taught Programmer from the Middle East. I love Linux and all things open source 🐧 If it doesn't have vim mode I don't want it. 
 
 ```ts
 
